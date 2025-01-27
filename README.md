@@ -2,7 +2,7 @@
 
 # Password Strength Checker
 
-A simple Python tool that assesses the strength of a password based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides real-time feedback to users on the password's strength.
+A simple Python tool that assesses the strength of a password based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides feedback on the password's strength.
 
 ## Features
 
